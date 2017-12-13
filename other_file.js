@@ -1,1 +1,2 @@
-var index = require("./indexjs")
+var index = require("./index.js");
+
