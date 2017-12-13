@@ -1,1 +1,1 @@
-var index
+var index = require()
